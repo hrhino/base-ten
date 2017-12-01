@@ -1,4 +1,7 @@
 /** Ten. */
+export const BaseTen = 10;
+
+/** Ten. */
 export const TEN = 10;
 
 /** Ten. */

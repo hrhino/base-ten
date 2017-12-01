@@ -1,5 +1,5 @@
 {
-  "name": "ten",
+  "name": "base-ten",
   "version": "0.10.0",
   "description": "The number ten, for use in parsing numbers written in that base.",
   "main": "ten.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrhino/ten.git"
+    "url": "git+https://github.com/hrhino/base-ten.git"
   },
   "keywords": [
     "ten"
@@ -17,9 +17,9 @@
   "author": "Harrison Houghton <hhoughton@learningobjects.com>",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/hrhino/ten/issues"
+    "url": "https://github.com/hrhino/base-ten/issues"
   },
-  "homepage": "https://github.com/hrhino/ten#readme",
+  "homepage": "https://github.com/hrhino/base-ten",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
