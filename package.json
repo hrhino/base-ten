@@ -1,0 +1,30 @@
+{
+  "name": "ten",
+  "version": "0.10.0",
+  "description": "The number ten, for use in parsing numbers written in that base.",
+  "main": "ten.js",
+  "scripts": {
+    "build": "babel ten.js --out-dir target",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrhino/ten.git"
+  },
+  "keywords": [
+    "ten"
+  ],
+  "author": "Harrison Houghton <hhoughton@learningobjects.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/hrhino/ten/issues"
+  },
+  "homepage": "https://github.com/hrhino/ten#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "eslint": "^4.12.1",
+    "mocha": "^4.0.1"
+  }
+}
