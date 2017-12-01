@@ -1,6 +1,6 @@
 {
   "name": "base-ten",
-  "version": "0.10.0",
+  "version": "0.10.10",
   "description": "The number ten, for use in parsing numbers written in that base.",
   "main": "ten.js",
   "scripts": {
