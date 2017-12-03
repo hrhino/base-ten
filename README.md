@@ -12,4 +12,4 @@ const result = Number.parseInt("1010", Ten);
 
 ## Why?
 
-[Why indeed.](https://github.com/hrhino/base-ten/issues/2#issuecomment-348728900).
+[Why indeed](https://github.com/hrhino/base-ten/issues/2#issuecomment-348728900).
