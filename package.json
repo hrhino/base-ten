@@ -3,6 +3,7 @@
   "version": "0.10.10",
   "description": "The number ten, for use in parsing numbers written in that base.",
   "main": "ten.js",
+  "types": "ten.d.ts",
   "scripts": {
     "build": "babel ten.js --out-dir target",
     "test": "ava"
